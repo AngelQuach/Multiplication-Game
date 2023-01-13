@@ -18,7 +18,7 @@ import java.util.*;
 import javax.swing.*;
 import tapplet.TApplet; 
 
-public class SummativeProject extends TApplet {
+public class MultiplicationGame extends TApplet {
 	
 	public static void main(String[] args) {
 		new SummativeProject();
