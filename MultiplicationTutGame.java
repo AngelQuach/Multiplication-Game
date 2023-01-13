@@ -1,24 +1,12 @@
+//this file is stored in a package called applet in Eclipse.
 package applet;
-/*
- * This is a tutorial game for the multiplication table from 1 to 10. The user will be presented with
- * a mathematical expression with two random numbers, each between 1 and 10, and she must enter the product.
- * A score will be shown on the upper right corner of the screen. Unique sounds will be played when the user
- * enters a correct / wrong answer, as well as when she enters five consecutive correct answer (she will have a star)
- * and three consecutive wrong answers (she will have a cross). When the user reaches a total of 25 correct answers, 
- * she will win the game and be brought to the winning screen, if she reaches three crosses before reaching 25 correct
- * answers, she will lose the game and be brought to the losing screen. And the user is able to change the background
- * between six pictures.
- * 
- * Author: Sze Ying (Angel) Quach 2021
- * 
- */
 
 import java.awt.*;
 import java.util.*;
 import javax.swing.*;
 import tapplet.TApplet; 
 
-public class MultiplicationGame extends TApplet {
+public class MultiplicationTutGame extends TApplet {
 	
 	public static void main(String[] args) {
 		new SummativeProject();
