@@ -1,4 +1,4 @@
-# Multiplication-Game(Java)
+# Multiplication-Tutorial-Game(Java)
 
 - This is a tutorial game for the multiplication table from 1 to 10. 
 - User will be presented with a mathematical expression with two random numbers, each between 1 and 10, and the user must enter the product. 
