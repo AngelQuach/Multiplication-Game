@@ -8,6 +8,8 @@ What is this program about?
 - When the user reaches a total of 25 correct answers, the user will win the game and be brought to the winning screen, if the user reaches three crosses before reaching 25 correct answers, the user will lose the game and be brought to the losing screen. 
 - And the user is able to change the background between six pictures.
 
+*Note: The Tapplet library included in the program is a personalized library provided by the course instructor and thus not open to public.
+
 My contribution to the program:
 - I am the only author of this program.
 - Written in 2021.
